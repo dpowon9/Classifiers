@@ -10,4 +10,6 @@ AutoEncoder: https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detec
 
 Kfold Dense Model: https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
 
-Datasets: https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set
+Datasets: 
+Gearbox Fault Data: https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set
+Turbofan Engine Degrigation: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
