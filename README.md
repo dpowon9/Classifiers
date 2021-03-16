@@ -9,3 +9,5 @@ RUL LSTM: https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/
 AutoEncoder: https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-5/
 
 Kfold Dense Model: https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
+
+Datasets: https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set
